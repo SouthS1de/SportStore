@@ -26,3 +26,4 @@ C:\Users\Danil\Desktop\ASP.Net Core MVC\SportStore\SportsStore\SportsStore\obj\D
 C:\Users\Danil\Desktop\ASP.Net Core MVC\SportStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Product\List.g.cshtml.cs
 C:\Users\Danil\Desktop\ASP.Net Core MVC\SportStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
 C:\Users\Danil\Desktop\ASP.Net Core MVC\SportStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ProductSummary.g.cshtml.cs
+C:\Users\Danil\Desktop\ASP.Net Core MVC\SportStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\NavigationMenu\Default.g.cshtml.cs

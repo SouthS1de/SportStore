@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using SportsStore.Models;
+using SportsStore.Helpers;
 using SportsStore.Models.ViewModels;
 
 namespace SportsStore.Controllers
@@ -18,6 +19,7 @@ namespace SportsStore.Controllers
             _repository = repo;
         }
 
+        //[Route("[category]/[productPage]")]
         public ViewResult List(string category, int productPage = 1)
         {
             return View(new ProductListViewModel

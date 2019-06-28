@@ -103,7 +103,7 @@ namespace SportsStore.Tests
 
             #region Act
 
-            Product[] result = (controller.List("Cat2", 2).ViewData.Model as ProductListViewModel).Products.ToArray();
+            Product[] result = (controller.List("Cat2", 1).ViewData.Model as ProductListViewModel).Products.ToArray();
 
             #endregion
 
